@@ -1,0 +1,21 @@
+body {
+  background-color: #f7f7f8;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.form-error {
+  font-size: 0.9rem;
+  color: #dc3545;
+}
